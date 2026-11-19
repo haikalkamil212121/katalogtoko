@@ -1,0 +1,89 @@
+.root {
+    -fx-font-family: "SansSerif";
+    -fx-font-size: 14px;
+    -fx-background-color: linear-gradient(to bottom right, #e0e7ff, #fce7f3, #ffedd5);
+}
+.header {
+    -fx-padding: 20 24;
+    -fx-background-color: white;
+    -fx-border-color: #8b5cf6 transparent transparent transparent;
+    -fx-border-width: 6 0 0 0;
+}
+.title {
+    -fx-font-size: 26px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #7c3aed;
+}
+.muted {
+    -fx-text-fill: #64748b;
+    -fx-font-size: 12px;
+}
+.text-field, .combo-box {
+    -fx-padding: 7;
+    -fx-background-radius: 7;
+    -fx-background-color: #f5f3ff;
+    -fx-border-color: #c4b5fd;
+    -fx-border-radius: 7;
+}
+.text-field:focused, .combo-box:focused {
+    -fx-border-color: #ec4899;
+}
+.button-primary {
+    -fx-background-color: linear-gradient(to right, #6366f1, #8b5cf6);
+    -fx-text-fill: white;
+    -fx-padding: 10 24;
+    -fx-background-radius: 8;
+}
+.button-primary:hover {
+    -fx-background-color: linear-gradient(to right, #4f46e5, #7c3aed);
+}
+.button-danger {
+    -fx-background-color: linear-gradient(to right, #ef4444, #f97316);
+    -fx-text-fill: white;
+    -fx-padding: 10 24;
+    -fx-background-radius: 8;
+}
+.button-danger:hover {
+    -fx-background-color: linear-gradient(to right, #dc2626, #ea580c);
+}
+.button-secondary {
+    -fx-background-color: linear-gradient(to right, #14b8a6, #06b6d4);
+    -fx-text-fill: white;
+    -fx-padding: 10 24;
+    -fx-background-radius: 8;
+}
+.button-secondary:hover {
+    -fx-background-color: linear-gradient(to right, #0d9488, #0891b2);
+}
+.katalog {
+    -fx-padding: 20 24;
+}
+.kartu-produk {
+    -fx-background-color: white;
+    -fx-background-radius: 12;
+    -fx-padding: 16;
+    -fx-border-width: 5 0 0 0;
+    -fx-border-radius: 12;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.12), 8, 0, 0, 2);
+}
+.warna-0 { -fx-background-color: #eef2ff; -fx-border-color: #6366f1; }
+.warna-1 { -fx-background-color: #fdf2f8; -fx-border-color: #ec4899; }
+.warna-2 { -fx-background-color: #ecfdf5; -fx-border-color: #10b981; }
+.warna-3 { -fx-background-color: #fffbeb; -fx-border-color: #f59e0b; }
+.kartu-terpilih {
+    -fx-border-width: 3;
+    -fx-border-color: #f97316;
+    -fx-effect: dropshadow(gaussian, rgba(249,115,22,0.55), 14, 0, 0, 0);
+}
+.nama-produk {
+    -fx-font-weight: bold;
+    -fx-text-fill: #1e1b4b;
+}
+.harga {
+    -fx-text-fill: #059669;
+    -fx-font-weight: bold;
+}
+.scroll-pane, .scroll-pane > .viewport {
+    -fx-background-color: transparent;
+}
