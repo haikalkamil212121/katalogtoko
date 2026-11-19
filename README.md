@@ -91,3 +91,38 @@ CREATE TABLE IF NOT EXISTS produk (
 
 ## Screenshot
 
+### 1. Tampilan awal (katalog kosong)
+<img width="767" height="599" alt="image" src="https://github.com/user-attachments/assets/62f7ff45-1aba-44a1-a91f-1a1797701d9e" />
+
+
+### 2. Form terisi sebelum disimpan
+<img width="761" height="596" alt="image" src="https://github.com/user-attachments/assets/15dfa4f8-e577-425d-9b27-99fc3afbfd87" />
+
+
+### 3. Produk berhasil disimpan
+<img width="743" height="593" alt="image" src="https://github.com/user-attachments/assets/60880ed7-9438-4578-9cdc-f207d5b7eda8" />
+
+
+### 4. Katalog dengan beberapa produk
+<img width="746" height="586" alt="image" src="https://github.com/user-attachments/assets/0d8680a3-124e-4825-a1ec-8f46a031d9ef" />
+
+
+### 5. Validasi error (harga bukan angka)
+<img width="725" height="557" alt="image" src="https://github.com/user-attachments/assets/7e1d78da-e7ec-42dc-a9cf-7486a1f2feb4" />
+
+
+### 6. Mode ubah (produk dipilih)
+<img width="743" height="585" alt="image" src="https://github.com/user-attachments/assets/21637629-86ea-4168-aac8-cdb1ca163cec" />
+
+
+### 7. Setelah update
+<img width="743" height="584" alt="image" src="https://github.com/user-attachments/assets/d1bb0c69-780e-42fc-8e3d-c12705a42fe7" />
+
+
+### 8. Dialog konfirmasi hapus
+<img width="736" height="580" alt="image" src="https://github.com/user-attachments/assets/2f0d85de-d31a-4be6-a371-d4b63c29ef10" />
+
+
+### 9. Setelah hapus
+<img width="749" height="591" alt="image" src="https://github.com/user-attachments/assets/d42374c0-fce5-4dd3-a749-1377a19e9617" />
+
